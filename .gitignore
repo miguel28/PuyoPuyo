@@ -1,8 +1,5 @@
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+
 
 # Precompiled Headers
 *.gch
@@ -17,15 +14,9 @@
 *.mod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+
 
 # =========================
 # Operating System Files
